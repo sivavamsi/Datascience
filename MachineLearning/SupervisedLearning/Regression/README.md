@@ -1,4 +1,7 @@
 # Methods
+* Data Reading
+  * CSV
+  * xls 
 * Data imputation 
   * interpolate
 * DataType Conversion
