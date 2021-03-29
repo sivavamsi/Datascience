@@ -1,6 +1,8 @@
 # Methods
-* Data imputation with interpolate
+* Data imputation 
+ * interpolate
 * DataType Conversion
+ * object
 * Dummies DropFirst
 * Correlation Heatmap
 * VIF
