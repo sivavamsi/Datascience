@@ -5,6 +5,17 @@
 * Correlation Heatmap
 * VIF
 * train test split
-* LinearRegression,LogisticRegression
-* Evaluation Metrics - R2,ROC_AUC,ROC_CURVE,RMSE,MSE,TSS,SSE,ClassificationReport,confusionMatrix
+* ModelBuilding
+  * LinearRegression
+  * LogisticRegression
+* Evaluation Metrics 
+  *  R2
+  *  ROC_AUC
+  *  ROC_CURVE
+  *  RMSE
+  *  MSE
+  *  TSS
+  *  SSE
+  *  ClassificationReport
+  *  confusionMatrix
 * Threshold Manipulation on binary
